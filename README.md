@@ -22,7 +22,7 @@ An E-Commerce full stack application built with React, GraphQL, and a MongoDB Da
 
 ## Usage 
 
-* The App can be found [Here]()
+* The App can be found [Here](https://aqueous-island-55143.herokuapp.com/)
 * Create an account by providing a username, email, and password
 * Add items to your cart.
 * Checkout the items from your cart.
@@ -46,6 +46,6 @@ Code released under the [Unlicense](http://unlicense.org/)
     
 ## Reference
 
-[Link to Deployed Site]()
+[Link to Deployed Site](https://aqueous-island-55143.herokuapp.com/)
 
 ![](client/public/images/shop.png)
